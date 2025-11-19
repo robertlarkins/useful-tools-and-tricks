@@ -126,10 +126,15 @@ To uninstall rerun VBCABLE_Setup_x64.exe in administrator mode, and click **Remo
 **Trouble Shooting**
 If the virtual audio cable stops working see if the cable has been muted:
 1. Go into Sound.
-2. Go to CABLE Input properties.
-3. Go to the Levels tab.
-4. Check CABLE Input is not muted.
-5. Repeat the same steps for CABLE Output under the Recording tab.
+1. Go to the **Playback** tab.
+1. Go to CABLE Input **Properties**.
+1. Go to the **Levels** tab.
+1. Check CABLE Input is not muted.
+1. Ensure the input level is 100.
+
+Repeat the same steps for CABLE Output under the Recording tab.
+
+---
 
 Or try unplugging the mic and replugging it in.
 
