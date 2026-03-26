@@ -5,6 +5,18 @@
    a console based package manager for Windows (it also has a GUI if desired)  
    Most of the following tools can be installed via Chocolatey
 
+
+### WinGet
+
+Windows official cli package manager
+
+programs:
+
+```
+GitHub CLI
+```
+
+
 ### Chocolatey
 
 Install: https://chocolatey.org/install
