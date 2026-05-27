@@ -14,7 +14,7 @@ programs:
 
 ```
 GitHub CLI
-winget install -e --id Bruno.Bruno
+winget install -e --id Bruno.Bruno --no-desktop-shortcut
 ```
 
 Bruno - API client for exploring, calling, testing APIs.
