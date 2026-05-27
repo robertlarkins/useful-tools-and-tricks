@@ -14,8 +14,10 @@ programs:
 
 ```
 GitHub CLI
+winget install -e --id Bruno.Bruno
 ```
 
+Bruno - API client for exploring, calling, testing APIs.
 
 ### Chocolatey
 
