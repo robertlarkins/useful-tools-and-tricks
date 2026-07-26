@@ -15,6 +15,7 @@ programs:
 ```
 GitHub CLI
 winget install -e --id Bruno.Bruno --no-desktop-shortcut
+winget install --id Microsoft.PowerToys --source winget
 ```
 
 Bruno - API client for exploring, calling, testing APIs.
